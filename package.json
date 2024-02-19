@@ -1,16 +1,15 @@
 {
-  "name": "react-javascript",
+  "name": "happychicken",
   "version": "1.0.0",
   "type": "module",
-  "description": "React TypeScript on Replit, using Vite bundler",
+  "description": "Happy Mr Chicken",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jay Zeng",
   "devDependencies": {
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
