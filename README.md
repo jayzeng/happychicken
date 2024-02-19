@@ -5,6 +5,9 @@ How to run:
 yarn dev
 ```
 
+Deployment:
+open a PR!
+
 # Game Rules:
 - we have a 10x10 grid 
 - each grid will have 3 possible states: empty, chicken, egg
